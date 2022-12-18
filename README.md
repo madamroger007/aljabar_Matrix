@@ -4,7 +4,7 @@ This project for matrix:
 * **Invers matrix**
 * **Spl rule Cramer**
 
-# **First step:**
+# **First step to use Fraction:**
 1. you must add library for java math3 in folder lib
 2. and then import library fraction example code:
 3.     import org.apache.commons.math3.fraction.Fraction;
