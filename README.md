@@ -1,4 +1,4 @@
-# aljabar_Matrix
+# aljabar_Matrix with GUI
 This project for matrix:
 * **calculate matrix** 
 * **Invers matrix**
