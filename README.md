@@ -11,5 +11,6 @@ This project for matrix:
 4. // instance fraction wih array for matrix [x][y] = line and column
 *     Fraction[][] pecahan = new Fraction[3][3];
 5. // render decimal to fraction Example code:
-*     pecahan[0][0] = new Fraction(adjoin[0][0]);   
+*     pecahan[0][0] = new Fraction(adjoin[0][0]); 
+* get value from variabel to object 
 *     object.setText(String.valueOf(pecahan[0][0]));
