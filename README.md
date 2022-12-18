@@ -5,7 +5,7 @@ This project for matrix:
 * **Spl rule Cramer**
 
 # **First step:**
-1. you must add library for java math3
+1. you must add library for java math3 in folder lib
 2. and then import library fraction example code:
 3.     import org.apache.commons.math3.fraction.Fraction;
 4. // instance fraction wih array for matrix [x][y] = line and column
