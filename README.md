@@ -14,3 +14,7 @@ This project for matrix:
 *     pecahan[0][0] = new Fraction(adjoin[0][0]); 
 * get value from variabel to object 
 *     object.setText(String.valueOf(pecahan[0][0]));
+
+
+# Warning!
+when you use netbeans it is expected to use netbeans version above 9
